@@ -1,0 +1,13 @@
+project_id = "hjcgkvjvmioykhwzeyii"
+
+[functions.parse-pdf]
+verify_jwt = false
+
+[functions.parse-docx]
+verify_jwt = false
+
+[functions.analyze-image]
+verify_jwt = false
+
+[functions.process-images]
+verify_jwt = false
